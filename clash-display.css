@@ -30,17 +30,6 @@
 */
 
 @font-face {
-  font-family: 'ClashDisplay-Variable';
-  src: url('ClashDisplay-Variable.woff2') format('woff2'),
-       url('ClashDisplay-Variable.woff') format('woff'),
-       url('ClashDisplay-Variable.ttf') format('truetype');
-       font-weight: 200 700;
-       font-display: swap;
-       font-style: normal;
-}
-
-
-@font-face {
   font-family: 'ClashDisplay-Extralight';
   src: url('ClashDisplay-Extralight.woff2') format('woff2'),
        url('ClashDisplay-Extralight.woff') format('woff'),
@@ -85,7 +74,7 @@
 
 
 @font-face {
-  font-family: 'ClashDisplay-Semibold';
+  font-family: 'ClashDisplay-Bold';
   src: url('ClashDisplay-Semibold.woff2') format('woff2'),
        url('ClashDisplay-Semibold.woff') format('woff'),
        url('ClashDisplay-Semibold.ttf') format('truetype');
@@ -94,14 +83,4 @@
        font-style: normal;
 }
 
-
-@font-face {
-  font-family: 'ClashDisplay-Bold';
-  src: url('ClashDisplay-Bold.woff2') format('woff2'),
-       url('ClashDisplay-Bold.woff') format('woff'),
-       url('ClashDisplay-Bold.ttf') format('truetype');
-       font-weight: 500;
-       font-display: swap;
-       font-style: normal;
-}
 
